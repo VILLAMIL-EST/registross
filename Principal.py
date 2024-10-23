@@ -216,5 +216,4 @@ class Principal:
                 print("Opción no válida. Intente nuevamente.")
 
 
-# Ejecutar el programa
 Principal.iniciar()
